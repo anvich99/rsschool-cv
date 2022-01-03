@@ -14,7 +14,8 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
 4. Basics Java 
 5. GIT/GitHub
 ### Code example
-```function truncate(str, maxlength)
+```
+function truncate(str, maxlength)
   {
   return (str.length > maxlength) ?
   str.slice(0, maxlength - 1) + '…' : str;
