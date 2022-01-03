@@ -18,6 +18,7 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
   return (str.length > maxlength) ?
   str.slice(0, maxlength - 1) + '…' : str;
   }
+
 ### Work experience
 Lead database administrator in Minsk regional customs  
 2021 - now  
