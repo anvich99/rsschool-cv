@@ -15,10 +15,11 @@ Lead database administrator in Minsk regional customs
 2021 - now  
 ### Education and courses
 > Belarusian State University of informatics and Radioelectronics 2021  
-> > Faculty of engineering and economics  
+> > Faculty of engineering and economics 
+> 
 > IT- school MyFreedom
 > > Frontend engineer courses
-
+>
 ### Language
 English A2+ (Pre-intermediate level)  
 
