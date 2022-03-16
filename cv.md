@@ -13,6 +13,7 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
 3. SQL
 4. Basics Java 
 5. GIT/GitHub
+6. figma
 ### Code example
 ```
 function truncate(str, maxlength)
