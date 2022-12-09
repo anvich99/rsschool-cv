@@ -15,3 +15,17 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
 4. Bootstrap
 5. GIT/GitHub
 6. Figma
+### Code example
+```
+let arr = ['true', false, 11, '23', 1, null, 0 ]
+function deleteArray(arr){
+    for(let i =0; i<arr.length; i++){
+        if(Boolean(arr[i]) == false){
+            arr.splice(i, 1);
+            i = -1;
+        }
+    }
+    return arr;
+}
+console.log(deleteArray(arr))
+```
