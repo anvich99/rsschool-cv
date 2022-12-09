@@ -29,3 +29,18 @@ function deleteArray(arr){
 }
 console.log(deleteArray(arr))
 ```
+### Work experience
+Lead database administrator in Minsk regional customs  
+2021 - now  
+### Education and courses
+> Belarusian State University of informatics and Radioelectronics 2021  
+> > Faculty of engineering and economics 
+> 
+> TeachMeSkills
+> > Frontend engineer courses
+>
+> RSSchool
+> > Frontend engineer courses
+### Language
+English A2+ (Pre-intermediate level)  
+
