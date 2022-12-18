@@ -1,0 +1,22 @@
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
